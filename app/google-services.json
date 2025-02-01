@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092154177017",
+    "project_id": "booktopia-lang",
+    "storage_bucket": "booktopia-lang.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092154177017:android:82fe7aad2fd27b30cc7928",
+        "android_client_info": {
+          "package_name": "hr.ferit.langema.booktopia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXKz1WbA7sxnbH38JhJj7Ijn6oWtfLNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
